@@ -19,5 +19,7 @@ Tools used -:
     c) My SQL -: Entity Realtion Diagram
     d) Power BI -: Analysis and Insights
     
+The analysis involves answering some of the important questions that the bank has identified. These questions include understanding the demographic profile of the bank's clients and how it varies across different districts, identifying the most common types of accounts and cards used by the clients, analyzing the bank's expenses and loan portfolio, and exploring ways to improve customer service and satisfaction levels.
+    
  
     
